@@ -11,6 +11,7 @@ A 15-minute ritual you run every Sunday so next week's Claude starts smarter tha
 | [`CHECKLIST.md`](CHECKLIST.md) | The full 5-item Sunday review. Start here. |
 | [`FIRST_TIME.md`](FIRST_TIME.md) | Modified version for your very first run. Skip a few items, do a few differently. |
 | [`prompts/`](prompts/) | Each prompt as a standalone file you can copy-paste cleanly. One file per checklist item. |
+| [`week/`](week/) | The 7 slides from the carousel that introduced this ritual, as plain text, plus the caption that ran with it. |
 | [`GOING_DEEPER.md`](GOING_DEEPER.md) | The full q-os ecosystem. Repos for Projects, artifacts, Claude Code setup, and the synthesis prompt library. |
 
 ## Who this is for
